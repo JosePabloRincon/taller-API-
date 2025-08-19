@@ -6,7 +6,7 @@ project.lock.json
 *.pyc
 nupkg/
 
-# Visual Studio Code
+# Visual Studio Code666
 .vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
